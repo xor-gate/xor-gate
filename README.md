@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I have a personal blog and landing page about myself located at [xor-gate.org](https://xor-gate.org).
+
 <!--
 **xor-gate/xor-gate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
